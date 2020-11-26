@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b65b70a-31fc-4a8c-a657-e7429816f79c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/fighters/Barbarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/fighters/Dwarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/fighters/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/fighters/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/fighters/defencemechanisms/Armor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/fighters/defencemechanisms/DefenceMechanism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/fighters/weapons/Axe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/fighters/weapons/Spear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/fighters/weapons/Sword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/fighters/weapons/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/mages/Mage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/mages/Warlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/mages/spells/Fireball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/mages/spells/Lightning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/mages/spells/Spell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/support/Cleric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/support/Support.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/support/healingtools/HealingTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/support/healingtools/Herb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/playable_characters/support/healingtools/Potion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AxeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DwarfTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kpCi7xa6rtL1o2RORfxROzK1U2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.DwarfTest.babrbarianAttack">
+    <configuration name="DwarfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab_fantasy_advanture_game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DwarfTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DwarfTest.babrbarianAttack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab_fantasy_advanture_game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DwarfTest" />
+      <option name="METHOD_NAME" value="babrbarianAttack" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DwarfTest.canAttack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab_fantasy_advanture_game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DwarfTest" />
+      <option name="METHOD_NAME" value="canAttack" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DwarfTest.canGetWeapons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab_fantasy_advanture_game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DwarfTest" />
+      <option name="METHOD_NAME" value="canGetWeapons" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DwarfTest.getActiveWeapon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab_fantasy_advanture_game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DwarfTest" />
+      <option name="METHOD_NAME" value="getActiveWeapon" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DwarfTest.babrbarianAttack" />
+        <item itemvalue="JUnit.DwarfTest.canAttack" />
+        <item itemvalue="JUnit.DwarfTest" />
+        <item itemvalue="JUnit.DwarfTest.getActiveWeapon" />
+        <item itemvalue="JUnit.DwarfTest.canGetWeapons" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b65b70a-31fc-4a8c-a657-e7429816f79c" name="Default Changelist" comment="" />
+      <created>1606388270250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606388270250</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="31" key="#Project_Structure" timestamp="1606390921448">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1606390921448" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1606401237282">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1606401237282" />
+    <state x="223" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606390847750">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="223" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1606390847750" />
+    <state x="505" y="326" width="430" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606389451842">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="505" y="326" width="430" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1606389451842" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1606401790361">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606401790361" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1606401790359">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606401790359" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1606401790357">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606401790357" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1606401790360">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606401790360" />
+    <state x="510" y="223" key="refactoring.ChangeSignatureDialog" timestamp="1606400223186">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="510" y="223" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1606400223186" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1606402156287">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1606402156287" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DwarfTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
